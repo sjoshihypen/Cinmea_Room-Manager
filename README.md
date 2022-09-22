@@ -1,4 +1,4 @@
-# Cinmea_Room Manager
+# Cinmea_Room_Manager
 
 Learning outcomes
 This project is a good opportunity to work with input and output in Java. 
